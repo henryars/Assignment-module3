@@ -1,0 +1,37 @@
+
+/*#nav-list {
+  margin-top: 10px;
+}
+*/
+#bname {
+	margin-top: 0;
+}
+
+#our-menu {
+	margin-bottom: 20px;
+}
+
+.heado {
+	padding:1px;
+	font-size: 200%;
+	margin-bottom: -20px;
+}
+
+.collection {
+	margin: 0 auto 0;
+	border: 1px solid black;
+	padding: 5px;
+	box-sizing: border-box;
+/*	width:80%;*/
+	margin:auto;
+}
+
+.contents {
+	padding: 10px;
+}
+
+@media (max-width: 840px) {
+  .collection {
+  	width:90%;
+  }
+}
